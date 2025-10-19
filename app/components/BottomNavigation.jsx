@@ -13,7 +13,7 @@ const BottomNavigation = ({ currentScreen }) => {
       <View style={styles.navigation}>
         <Pressable 
           style={styles.navItem} 
-          onPress={() => router.push('/')}
+          onPress={() => router.push('/home')}
         >
           <Feather 
             name="home" 
