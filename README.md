@@ -1,5 +1,8 @@
 # sosemerhe
 sos emergency
+
+in preparation for database
+
 thing to install
 
 
